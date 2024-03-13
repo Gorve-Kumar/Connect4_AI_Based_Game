@@ -1,0 +1,4 @@
+[2, 'Hamza', 'HH', 5, 1]
+[1, 'Gorve', 'GK', 6, 2]
+[3, 'Malaika', 'MB', 2, 1]
+[4, 'Jack John', 'JJ', 1, 0]
